@@ -1,0 +1,48 @@
+Cabin 1 : Occupied
+    Passenger 1 : Kaveen Premachandra - $1200.0
+    Passenger 2 : Amalka Premachandra - $1300.0
+    Passenger 3 : Ishara Rodrigo - $2000.0
+-----------------------------------------------------------------------
+Cabin 2 : Vacant
+    Passenger 1 : Sudarshani Senanayake - $1000.0
+    Passenger 2 : Somarathnage Premachandra - $1200.0
+-----------------------------------------------------------------------
+Cabin 3 : Vacant
+    Passenger 1 : Vijendra Senanayake - $200.0
+-----------------------------------------------------------------------
+Cabin 4 : Occupied
+    Passenger 1 : Isuri Perera - $200.0
+    Passenger 2 : Kilson Perera - $350.0
+    Passenger 3 : Damayanthi Senanayake - $1550.0
+-----------------------------------------------------------------------
+Cabin 5 : Vacant
+    Passenger 1 : Priyanka Senanayake - $1450.0
+-----------------------------------------------------------------------
+Cabin 6 : Vacant
+    Passenger 1 : Kavindu Perera - $2400.0
+    Passenger 2 : Aven Rodrigo - $740.0
+-----------------------------------------------------------------------
+Cabin 7 : Vacant
+    Passenger 1 : Aparna Indeewari - $4050.0
+    Passenger 2 : Chathma Buthmini - $3850.0
+-----------------------------------------------------------------------
+Cabin 8 : Occupied
+    Passenger 1 : Dulsara Denegama - $1400.0
+    Passenger 2 : Dulina Rathnayake - $3600.0
+    Passenger 3 : Hasala Gathsara - $900.0
+-----------------------------------------------------------------------
+Cabin 9 : Vacant
+    Passenger 1 : Megha Jayalath - $300.0
+    Passenger 2 : Shanel Perera - $2000.0
+-----------------------------------------------------------------------
+Cabin 10 : Vacant
+    Passenger 1 : Dhanuka Siriwardane - $400.0
+    Passenger 2 : Hansi Siriwardane - $400.0
+-----------------------------------------------------------------------
+Cabin 11 : Vacant
+    Passenger 1 : Thamuditha Perera - $150.0
+    Passenger 2 : Shanthi Perera - $200.0
+-----------------------------------------------------------------------
+Cabin 12 : Vacant
+    Passenger 1 : Romesh Jayalath - $2000.0
+-----------------------------------------------------------------------
